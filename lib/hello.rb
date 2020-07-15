@@ -1,6 +1,5 @@
 def ["Tim", "Tom", "Jim"].each do |name|
-  puts
-
+  puts name
 end
 
 # call your method here!
