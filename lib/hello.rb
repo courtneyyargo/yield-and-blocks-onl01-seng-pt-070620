@@ -1,4 +1,5 @@
-def hello_t do 
+def ["Tim", "Tom", "Jim"].each do |name|
+  puts
 
 end
 
